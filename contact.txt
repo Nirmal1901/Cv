@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>contacts</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+
+</head>
+<body>
+ <h3>My Contact Details </h3>
+  <ol>
+  	<li> 8955502992</li>
+  	<li>8952004988</li>
+  </ol>
+  <form class="" action="mailto:nirmalnathani01@gmail.com" method="post" enctype="text/plain">
+  	<label> Your Name:</label>
+  	<input type="text" name="your name" value="">
+  	<br>
+  	<label>Enter the Email</label>
+  	<input type="email"name="your email">
+  	<br>
+  	<label>Your Message:</label><br>
+  	<textarea name="name" rows="10" cols="30"></textarea><br>
+  	<input type="submit" name="">
+
+  </form>
+</body>
+</html>
+
